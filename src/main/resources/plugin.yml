@@ -1,0 +1,12 @@
+name: OneSignalWolf
+version: 0.17.5
+main: jp.onesignalwolf.OneSignalWolfPlugin
+api-version: 0.17.5
+author: OpenAI
+commands:
+  osw:
+    description: OneSignalWolf main command
+    usage: /osw <help|start|stop|testmode|test|bot|ho|point|signal|breaker|emp|item|report|meeting|vote|end|setup|gm>
+permissions:
+  osw.admin:
+    default: op

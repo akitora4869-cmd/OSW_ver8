@@ -1,0 +1,49 @@
+game-duration-seconds: 900
+chat-radius: 8.0
+nameplate-range: 15.0
+report-delay-seconds: 10
+meeting-seconds: 90
+knife-kill-cooldown-seconds: 30
+emp-radius: 30.0
+emp-seconds: 60
+backpack-max: 3
+handgun-magazine: 6
+stun-seconds: 3
+smoke-radius: 7.0
+smoke-seconds: 10
+wildlife-enabled: true
+
+mission-ii-points: 4
+will-expire-seconds: 180
+
+tracker-history-seconds: 30
+wildlife-interval-seconds: 180
+wildlife-duration-seconds: 60
+meeting-room-radius: 10.0
+meeting-choice-seconds: 10
+
+vision:
+  dark-light-level: 5
+  dark-recognition-range: 4.0
+  flashlight-recognition-range: 12.0
+  flashlight-cone-dot: 0.82
+flashlight-energy-seconds: 180
+emp-shield-energy-seconds: 150
+
+blizzard:
+  min-interval-seconds: 180
+  max-interval-seconds: 300
+  duration-seconds: 90
+  recognition-range: 6.0
+  flashlight-recognition-range: 10.0
+  body-range: 3.0
+  flashlight-body-range: 6.0
+
+temperature:
+  cold-loss-per-second: 0.35
+  blizzard-loss-per-second: 1.0
+  indoor-recovery-per-second: 1.0
+  freezing-threshold: 15
+  freezing-damage: 1.0
+  poweroff-grace-seconds: 30
+  poweroff-cooldown-seconds: 90
